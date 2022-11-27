@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Silhouette is a user management app that lets you define their identity. Users can create a profile and update their avatars.
+Silhouette is a user management app that lets you define your identity. A User can create a profile and update their avatar.
 
 ### Built Using?
 
